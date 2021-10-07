@@ -1,7 +1,7 @@
  👋 Hi, I’m @Shivani-Srivastava
  
  👀 I’m interested in monitoring, mapping and valuing Ecosystem Services! 
-  (What are they? Anything we as humans enjoy by virtue of the ecology around us)
+  (What are they? Anything we as humans enjoy by virtue of the environment around us.)
  
  🌱 I’m currently learning Business Use-Cases for Machine Learning and Artificial Intelligence :)
  
