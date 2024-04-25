@@ -7,7 +7,7 @@
  
  🌱 I’ve explored Business Use-Cases for Machine Learning at Indian School of Business, Hyderabad and learnt to make dynamic web-based tools to exhibit, visualize and communicate relevant complex concepts and applications. Check my repos for more on this.
 
-✨ I'm currently working as a Researcher at the Council on Energy, Environment and Water (CEEW) in New Delhi, India - exploring the application of Machine Learning methods to evaluate impact of government schemes on Air Pollution.
+✨ I'm currently looking for full-time opportunities as a Business Analyst/Data Scientist in industries.
  
  💞️ I’m open to collaborating on R/Python/Julia projects that lie in these intersections!
 
