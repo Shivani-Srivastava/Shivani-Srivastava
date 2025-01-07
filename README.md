@@ -1,14 +1,21 @@
- 👋 Hi, I’m @Shivani-Srivastava
- 
- 👀 I’m interested in monitoring, mapping and valuing Human Experiences! (These include those with tangible products and non-tangible ones, like recreation or relief.)
- 
- ✨ Also inclining towards research exploring how online user-generated content can help shape real-world policies and business decisions.
- 
- 🌱 I’ve explored Business Use-Cases for Machine Learning at Indian School of Business, Hyderabad and learnt to make dynamic web-based tools to exhibit, visualize and communicate relevant complex concepts and applications. Check my repos for more on this. I've also worked at the Council of Energy, Environment and Water as a research intern briefly, to help build an early warning dashboard for air quality drops based on open source satellite data.
+🌟 **Welcome to my GitHub!** 🌟  
 
-✨ I'm currently working as a full-time Business Analyst at Genpact HMS Analytics (India).
- 
- 💞️ I’m open to collaborating on R/Python/Julia projects that lie in these intersections!
+👋 Hi, I’m **@Shivani-Srivastava** – great to have you here!  
+
+✨ Currently, I’m a full-time **Business Analyst** at Genpact Analytics (India), specializing in **collections analytics** where I dive into insights from text and numerical data.  
+
+🌍 My journey has been fueled by a passion for exploring and **valuing human experiences** – from tangible products to intangible moments of recreation and relief. I’m fascinated by how online user-generated content can inspire **real-world policies** and **business decisions.**  
+
+🌟 **Masters Thesis Spotlight:**  
+🎓 My master’s research, titled **"Valuing Recreation in Lodhi Gardens using Crowdsourced Travel Cost Method"**, highlights the potential of user-generated geo-information to inform sustainable urban planning.
+
+🔗 [Read the full abstract here!](https://www.terisas.ac.in/abstract.php?id=2411&tbl=masters_research)  
+
+💡 **Fun Fact:** At the Indian School of Business, I built **dynamic web tools** to simplify and communicate complex machine-learning concepts. Curious? Take a peek at my repos! I’ve also developed an **early warning dashboard for air quality drops** during a research stint at the Council of Energy, Environment, and Water.  
+
+🤝 Let’s connect and create! I’m excited to collaborate on **R/Python/Julia projects** that blend creativity, data, and meaningful impact.  
+
+🌱 Feel free to drop by with ideas, questions, or just to say hi! 😊
 
 <!---
 Shivani-Srivastava/Shivani-Srivastava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
