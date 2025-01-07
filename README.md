@@ -13,9 +13,9 @@
 
 💡 **Fun Fact:** At the Indian School of Business, I built **dynamic web tools** to simplify and communicate complex machine-learning concepts. Curious? Take a peek at my repos! I’ve also developed an **early warning dashboard for air quality drops** during a research stint at the Council of Energy, Environment, and Water.  
 
-🤝 Let’s connect and create! I’m excited to collaborate on **R/Python/Julia projects** that blend creativity, data, and meaningful impact.  
+🤝 I thrive at the crossroads of data science, policy research, and human-centered design, where numbers meet narratives - meet me there?
 
-🌱 Feel free to drop by with ideas, questions, or just to say hi! 😊
+💌 Let’s connect! Whether it’s to collaborate, brainstorm, or chat about all things data and beyond, my inbox is always open.
 
 <!---
 Shivani-Srivastava/Shivani-Srivastava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
